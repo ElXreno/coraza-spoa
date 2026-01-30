@@ -38,3 +38,5 @@ require (
 	google.golang.org/protobuf v1.36.8 // indirect
 	rsc.io/binaryregexp v0.2.0 // indirect
 )
+
+replace github.com/dropmorepackets/haproxy-go => github.com/elxreno/haproxy-go v0.0.0-20260130175902-8c442ed83218
